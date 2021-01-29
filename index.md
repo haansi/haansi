@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Hansi Weissensteiner
+- **Employment:** PostDoc at the Medical University of Innsbruck | Department of Genetics and Pharmacology | Institute of Genetic Epidemiology
+- **Education:** Dr.techn. from Leopold Franzens Universität Innsbruck | Institute of Computer Science | Group Databases and Information Systems
 
-You can use the [editor on GitHub](https://github.com/haansi/haansi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Research interests
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Bioinformatics
+- Mitochondrial Genomes (mtDNA)
+- Haplogroup classification
+- low level variant calling (heteroplasmic mutations)
+- Contamination detection
+- Next-Generation Sequencing / Third-Generation Sequencing
+- Variant Calling
+- Quality Control
+- Genetics/Population genetics
+- Phylogeny
 
-### Markdown
+## Projects:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - HaploGrep: [https://haplogrep.i-med.ac.at/](https://haplogrep.i-med.ac.at/)
+ - mitoverse: [https://mitoverse.i-med.ac.at/](https://mitoverse.i-med.ac.at/index.html#!) 
+   - mtDNA-Server
+   - Haplocheck
 
-```markdown
-Syntax highlighted code block
+## Teaching:
 
-# Header 1
-## Header 2
-### Header 3
+-  Praktikum: Modul 2.02: Medizinische Wissenschaften (Kohorte I)
 
-- Bulleted
-- List
+## Publications:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haansi/haansi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [ORCID](https://orcid.org/0000-0002-2871-8669) | [Google Scholar](https://scholar.google.com/citations?user=iGUxXZIAAAAJ&hl=en) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=hansi+weissensteiner&sort=date)
+ 
+ ## Social Media:
+ 
+ [Twitter](https://twitter.com/whansi) | [Instagram](https://www.instagram.com/hansi.it/) | [500px](https://500px.com/p/haansi?view=photos)
