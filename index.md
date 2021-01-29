@@ -1,6 +1,6 @@
 # Hansi Weissensteiner
-**Employment:** PostDoc at the Medical University of Innsbruck | Department of Genetics and Pharmacology | [Institute of Genetic Epidemiology](http://genepi.i-med.ac.at/)
-**Education:** Dr.techn. from Leopold Franzens Universität Innsbruck | Institute of Computer Science | [Group Databases and Information Systems](https://dbis-informatik.uibk.ac.at/)
+ - **Employment:** PostDoc at the Medical University of Innsbruck | Department of Genetics and Pharmacology | [Institute of Genetic Epidemiology](http://genepi.i-med.ac.at/)
+ - **Education:** Dr.techn. from Leopold Franzens Universität Innsbruck | Institute of Computer Science | [Group Databases and Information Systems](https://dbis-informatik.uibk.ac.at/)
 
 ## Research interests
 
