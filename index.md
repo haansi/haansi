@@ -6,12 +6,10 @@
 
 - Bioinformatics
 - Mitochondrial Genomes (mtDNA)
-- Haplogroup classification
-- low level variant calling (heteroplasmic mutations)
-- Contamination detection
 - Next-Generation Sequencing / Third-Generation Sequencing
-- Variant Calling
-- Quality Control
+- [Haplogroup classification](https://haplogrep.i-med.ac.at/)
+- [Variant Calling, low level variant calling (heteroplasmic mutations)](https://github.com/seppinho/mutserve)
+- [Contamination detection and QC](https://github.com/genepi/haplocheck)
 - Genetics/Population genetics
 - Phylogeny
 
@@ -21,7 +19,7 @@
  - mitoverse: [https://mitoverse.i-med.ac.at/](https://mitoverse.i-med.ac.at/index.html#!) 
    - mtDNA-Server
    - Haplocheck
-
+   
 ## Teaching:
 
 -  Praktikum: Modul 2.02: Medizinische Wissenschaften (Kohorte I)
@@ -32,4 +30,4 @@
  
  **Social Media:**
  
- [Twitter](https://twitter.com/whansi) | [Instagram](https://www.instagram.com/hansi.it/) | [500px](https://500px.com/p/haansi?view=photos)
+ [Twitter](https://twitter.com/whansi) | [Instagram](https://www.instagram.com/hansi.it/) | [500px](https://500px.com/p/haansi?view=photos) | [LinkedIn](https://www.linkedin.com/in/hansi-wei%C3%9Fensteiner-905b05bb/) | [ResearchGate](https://www.researchgate.net/profile/Hansi_Weissensteiner) 
