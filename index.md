@@ -17,8 +17,8 @@
 
  - HaploGrep: [https://haplogrep.i-med.ac.at/](https://haplogrep.i-med.ac.at/)
  - mitoverse: [https://mitoverse.i-med.ac.at/](https://mitoverse.i-med.ac.at/index.html#!) 
-   - mtDNA-Server
-   - Haplocheck
+   - mtDNA-Server / mutserve2 -> https://github.com/seppinho/mutserve
+   - Haplocheck -> https://github.com/genepi/haplocheck
    
 ## Teaching:
 
