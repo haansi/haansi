@@ -17,12 +17,12 @@
 
  - HaploGrep: [https://haplogrep.i-med.ac.at/](https://haplogrep.i-med.ac.at/)
  - mitoverse: [https://mitoverse.i-med.ac.at/](https://mitoverse.i-med.ac.at/index.html#!) 
-   - mtDNA-Server / mutserve2 -> https://github.com/seppinho/mutserve
-   - Haplocheck -> https://github.com/genepi/haplocheck
+   - mtDNA-Server / mutserve2 -> [see GitHub](https://github.com/seppinho/mutserve)
+   - Haplocheck -> [see GitHub](https://github.com/genepi/haplocheck)
    
 ## Teaching:
 
--  Praktikum: Modul 2.02: Medizinische Wissenschaften (Kohorte I)
+-  Praktikum: Modul 2.02: Medizinische Wissenschaften | Medical 
 
 **Publications**
 
