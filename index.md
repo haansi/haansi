@@ -22,7 +22,8 @@
    
 ## Teaching:
 
--  Praktikum: Modul 2.02: Medizinische Wissenschaften | Medical 
+-  Modul 2.02: Medizinische Wissenschaften | Medical Sciences 
+-  Modul 3.30: Statistik für Diplomandinnen und Diplomanden | Statistics for Diploma Students
 
 **Publications**
 
