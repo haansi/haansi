@@ -1,17 +1,18 @@
 # Hansi Weissensteiner
- - **Employment:** PostDoc at the [Medical University of Innsbruck](https://www.i-med.ac.at/mypoint/) | Department of Genetics | [Institute of Genetic Epidemiology](http://genepi.i-med.ac.at/)
+ - **Employment:** PostDoc at the [Medical University of Innsbruck](https://www.i-med.ac.at/mypoint/) | [Department of Genetics](https://www.i-med.ac.at/mgmkp/) | [Institute of Genetic Epidemiology](http://genepi.i-med.ac.at/)
  - **Education:** Dr.techn. from [Leopold Franzens Universität Innsbruck](https://www.uibk.ac.at/de/) | [Institute of Computer Science](https://www.uibk.ac.at/informatik/) | [Group Databases and Information Systems](https://dbis-informatik.uibk.ac.at/)
 
 ## Research interests
 
 - Bioinformatics
-- Mitochondrial Genomes (mtDNA)
-- [Next-Generation Sequencing](https://www.mdpi.com/1422-0067/22/2/935) / [Third-Generation Sequencing](https://www.frontiersin.org/articles/10.3389/fgene.2022.887644/full)
-- [Haplogroup classification](https://haplogrep.i-med.ac.at/)
-- [Variant Calling, low level variant calling (heteroplasmic mutations)](https://github.com/seppinho/mutserve)
-- [Contamination detection and QC](https://github.com/genepi/haplocheck)
-- [Genetics/Population genetics](https://www.nature.com/articles/s41598-021-90145-2)
 - Phylogeny
+- **Mitochondrial Genomes (mtDNA)**
+  - [Sanger-based](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-122) - [Next-Generation](https://www.mdpi.com/1422-0067/22/2/935) - [Third-Generation Sequencing](https://www.frontiersin.org/articles/10.3389/fgene.2022.887644/full)
+  - [Haplogroup classification](https://haplogrep.i-med.ac.at/)
+  - [Variant Calling, low level variant calling (heteroplasmic mutations)](https://github.com/seppinho/mutserve)
+  - [Contamination detection and QC](https://github.com/genepi/haplocheck)
+  - [Genetics/Population genetics](https://www.nature.com/articles/s41598-021-90145-2)
+
 
 ## Projects:
 
