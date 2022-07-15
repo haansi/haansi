@@ -6,11 +6,11 @@
 
 - Bioinformatics
 - Mitochondrial Genomes (mtDNA)
-- Next-Generation Sequencing / Third-Generation Sequencing
+- [Next-Generation Sequencing](https://www.mdpi.com/1422-0067/22/2/935) / [Third-Generation Sequencing](https://www.frontiersin.org/articles/10.3389/fgene.2022.887644/full)
 - [Haplogroup classification](https://haplogrep.i-med.ac.at/)
 - [Variant Calling, low level variant calling (heteroplasmic mutations)](https://github.com/seppinho/mutserve)
 - [Contamination detection and QC](https://github.com/genepi/haplocheck)
-- Genetics/Population genetics
+- [Genetics/Population genetics](https://www.nature.com/articles/s41598-021-90145-2)
 - Phylogeny
 
 ## Projects:
@@ -27,7 +27,7 @@
 
 **Publications**
 
- [ORCID](https://orcid.org/0000-0002-2871-8669) | [Google Scholar](https://scholar.google.com/citations?user=iGUxXZIAAAAJ&hl=en) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=hansi+weissensteiner&sort=date)
+ [ORCID](https://orcid.org/0000-0002-2871-8669) | [Google Scholar](https://scholar.google.com/citations?user=iGUxXZIAAAAJ&hl=en) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=hansi+weissensteiner&sort=date) | [ResearchID](https://publons.com/wos-op/researcher/4555250/hansi-weissensteiner/) 
  
  **Social Media:**
  
