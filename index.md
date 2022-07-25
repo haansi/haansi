@@ -1,4 +1,4 @@
-# Hansi Weissensteiner
+## Position / Education
  - **Employment:** PostDoc at the [Medical University of Innsbruck](https://www.i-med.ac.at/mypoint/) | [Department of Genetics](https://www.i-med.ac.at/mgmkp/) | [Institute of Genetic Epidemiology](http://genepi.i-med.ac.at/)
  - **Education:** Dr.techn. from [Leopold Franzens Universität Innsbruck](https://www.uibk.ac.at/de/) | [Institute of Computer Science](https://www.uibk.ac.at/informatik/) | [Group Databases and Information Systems](https://dbis-informatik.uibk.ac.at/)
 
